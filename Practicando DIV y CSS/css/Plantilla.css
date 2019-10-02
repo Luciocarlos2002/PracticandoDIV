@@ -1,61 +1,71 @@
-#contenedor{
-    width: 968px;
+#cont{
+ 
+   
 }
 
 #menu{
-    align-content: center;
-    height: 50px;
-    width: 1400px;
-    background-color:pink;
-}
-#img{
-    height: 300px;
-    width: 300px;
-    background-color: blue;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    position: absolute;
-    top: 40%;
-    left: 5%;
-    outline: 10px solid red
-}
+   
+   background-color:greenyellow;
+   height: 40px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
 
-#img2{
-    
-    height: 300px;
-    width: 300px;
-    background-color: red;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    position: absolute;
-    top: 40%;
-    left: 38%;
-    outline: 10px solid blueviolet
 }
-
-#img3{
-    height: 300px;
-    width: 300px;
-    background-color: white ;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    position: absolute;
-    top: 40%;
-    left: 73%;
-    outline: 10px solid yellowgreen
+.lucio{
+  height: 200px;
+  width: 200px;
+  border-radius: 20%;
 }
-
 #cuerpo{
+    
+    background-color:orange;
     height: 700px;
-    width: 1400px;
-    background-color: maroon;
+    
 }
 
 #footer{
+    
+    background-color:red;
     height: 50px;
-    width: 1400px;
-    background-color:yellow;
+    display: flex;
+   align-items: center;
+   justify-content: center;
+
 }
+#img1 {
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    top: 40%;
+    left: 10%;
+   
+  }
+#img2 {
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    top: 40%;
+    left: 45%;
+    
+  }
+#img3 {
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    top: 40%;
+    left: 80%;
+    
+  }
