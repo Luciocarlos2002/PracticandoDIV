@@ -1,0 +1,61 @@
+#contenedor{
+    width: 968px;
+}
+
+#menu{
+    align-content: center;
+    height: 50px;
+    width: 1400px;
+    background-color:pink;
+}
+#img{
+    height: 300px;
+    width: 300px;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 40%;
+    left: 5%;
+    outline: 10px solid red
+}
+
+#img2{
+    
+    height: 300px;
+    width: 300px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 40%;
+    left: 38%;
+    outline: 10px solid blueviolet
+}
+
+#img3{
+    height: 300px;
+    width: 300px;
+    background-color: white ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 40%;
+    left: 73%;
+    outline: 10px solid yellowgreen
+}
+
+#cuerpo{
+    height: 700px;
+    width: 1400px;
+    background-color: maroon;
+}
+
+#footer{
+    height: 50px;
+    width: 1400px;
+    background-color:yellow;
+}
